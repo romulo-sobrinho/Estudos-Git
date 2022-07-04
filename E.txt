@@ -1,1 +1,3 @@
 Alterando o conteúdo do arquivo E.txt
+
+Recebida a alteração do arquivo
